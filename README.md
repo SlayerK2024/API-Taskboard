@@ -1,10 +1,15 @@
-# Taskboard
+# API Taskboard
+
+## Description 
+
+Project management application thats able to keep track of due dates and progress
 
 ## User Story
 
 AS A project team member with multiple tasks to organize
 
 I WANT a task board 
+
 SO THAT I can add individual project tasks, manage their state of progress and track overall project progress accordingly
 
 ## Acceptance Criteria
@@ -38,3 +43,6 @@ THEN the task is removed from the task board and will not be added back after re
 WHEN I refresh the page
 
 THEN the saved tasks persist
+
+![Screenshot_8-5-2024_181450_127 0 0 1](https://github.com/SlayerK2024/API-Taskboard/assets/157855730/a99b5124-b91c-4870-9c76-4750b36aeed4)
+Live Link: https://slayerk2024.github.io/API-Taskboard/
